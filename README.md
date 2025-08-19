@@ -15,7 +15,7 @@ A fully functional calculator built with React that handles basic arithmetic ope
 ## Demo
 
 ```
-https://mxxpxn.github.io/calculator-js/
+[Demo](https://mxxpxn.github.io/calculator-js/)
 ```
 
 ## Installation
